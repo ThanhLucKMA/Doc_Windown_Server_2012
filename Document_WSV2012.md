@@ -1,4 +1,4 @@
-# Tocpic Win Server 2012 
+# Topic Win Server 2012 
 ### I. Thực hiện allow port, allow ip trên window fw
 #### 1.1. Allow Port
 #### Bước 1 : Vào `Server Manager` -> `Local Server` -> Tại Properties có thuộc tính Windowsn Firewall click vào `Public:On` để mở cửa sổ quản lý firewall 
